@@ -18,6 +18,7 @@ Yellow = (255, 255, 0)
 Vel = 5
 Bullets_Vel = 7
 
+#Max qty of bullets in the screen
 Max_Bullets = 3
 
 BorderWidth = 10
